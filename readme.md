@@ -15,13 +15,21 @@ It will be easier if the program is not in English. If it is, pay attention to s
 
 It may also be used to translate hard-coding strings.
 
+##Warning
+
+Before using it, you should make sure there would not be a copyright issue.
+
+I won't take any responsibility for any user's abuse of this tool.
+
 ##License
+
+dnlib & ConfuserEx : MIT License
 
 BAML Translator (bin) : CC BY-NC-ND 3.0 (will be open-source later)
 
-dnlib & ConfuserEx : MIT License
- 
+For anything you localized with this tool, you should write follow text when release:
 
+**Localized/Translated with BAML Tranlator by Ulysses (wdwxy12345@gmail.com)**
 
 ---
 by Ulysses , wdwxy12345@gmail.com
