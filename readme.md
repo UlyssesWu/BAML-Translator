@@ -29,7 +29,7 @@ BAML Translator (bin) : CC BY-NC-ND 3.0 (will be open-source later)
 
 For anything you localized with this tool, you should write follow text when release:
 
-**Localized/Translated with BAML Tranlator by Ulysses (wdwxy12345@gmail.com)**
+**Localized/Translated with BAML Translator by Ulysses (wdwxy12345@gmail.com)**
 
 ---
 by Ulysses , wdwxy12345@gmail.com
