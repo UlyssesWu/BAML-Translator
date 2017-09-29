@@ -1,11 +1,11 @@
 
-#BAML Translator
+# BAML Translator
 ---
 A tool for WPF program localization.
 
 BAML Translator uses [**dnlib**](https://github.com/0xd4d/dnlib) (by 0xd4d) and [**ConfuserEx**](https://github.com/yck1509/ConfuserEx) (by yck1509)
 
-##Notice
+## Notice
 
 In BAML, simple strings and binding strings can not be divided.
 
@@ -15,13 +15,13 @@ It will be easier if the program is not in English. If it is, pay attention to s
 
 It may also be used to translate hard-coding strings.
 
-##Warning
+## Warning
 
 Before using it, you should make sure there would not be a copyright issue.
 
 I won't take any responsibility for any user's abuse of this tool.
 
-##License
+## License
 
 dnlib & ConfuserEx : MIT License
 
