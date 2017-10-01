@@ -1,7 +1,9 @@
 
 # BAML Translator
----
+
 A tool for WPF program localization.
+
+It can translate strings in BAML, Hard-code and Resource.
 
 BAML Translator uses [**dnlib**](https://github.com/0xd4d/dnlib) (by 0xd4d) and [**ConfuserEx**](https://github.com/yck1509/ConfuserEx) (by yck1509)
 
