@@ -1,11 +1,15 @@
 
-# BAML Translator
+# UniTranslator
 
 A tool for WPF program localization.
 
 It can translate strings in BAML, Hard-code and Resource.
 
-BAML Translator uses [**dnlib**](https://github.com/0xd4d/dnlib) (by 0xd4d) and [**ConfuserEx**](https://github.com/yck1509/ConfuserEx) (by yck1509)
+**UniTranslator** (WPF) is the successor of **BAML Translator** (WinForm).
+
+UniTranslator / BAML Translator uses [**dnlib**](https://github.com/0xd4d/dnlib) (by 0xd4d) and [**ConfuserEx**](https://github.com/yck1509/ConfuserEx) (by yck1509)
+
+
 
 ## Notice
 
@@ -27,11 +31,9 @@ I won't take any responsibility for any user's abuse of this tool.
 
 dnlib & ConfuserEx : MIT License
 
-BAML Translator (bin) : CC BY-NC-ND 3.0 (will be open-source later)
+UniTranslator / BAML Translator (bin) : CC BY-NC-ND 3.0 (will be open-source later)
 
-For anything you localized with this tool, you should write follow text when release:
-
-**Localized/Translated with BAML Translator by Ulysses (wdwxy12345@gmail.com)**
+Please clarify this tool when releasing something localized with it.
 
 ---
 by Ulysses , wdwxy12345@gmail.com
