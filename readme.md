@@ -1,6 +1,8 @@
 
 # UniTranslator
 
+UniTranslator是用于本地化（汉化）WPF程序的工具（工具自身具备中/英文界面）。
+
 A tool for WPF program localization.
 
 It can translate strings in BAML, Hard-code and Resource.
